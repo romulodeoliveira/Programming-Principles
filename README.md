@@ -78,7 +78,7 @@
 - 🔧 Separation of concerns
 - 🔧 Separation of mechanism and policy
 - 🔧 Single-responsibility principle
-- 🔧 SOLID
+- 🔧 [SOLID](https://github.com/romulodeoliveira/Programming-Principles/tree/main/S/SOLID)
 
 ## U
 
